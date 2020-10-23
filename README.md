@@ -4,7 +4,7 @@ This project is focused on creating a convoluted neural network which can succes
 
 ## Getting Started
 
-You will need to have Anaconda Navigator, and some install of Jupyter Notebook in order to view these documents. Keep in mind all data is retrieved from the internet via provided data sets, or web scraping scripts.
+You will need to have Anaconda Navigator, and some install of Jupyter Notebook in order to view these documents. Keep in mind all data is retrieved from the internet via provided data sets.
 
 ### Prerequisites
 
