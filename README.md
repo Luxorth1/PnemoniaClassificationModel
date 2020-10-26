@@ -1,6 +1,6 @@
-# Pnemonia Classification Algorithm
+# Pneumonia Classification Algorithm
 
-This project is focused on creating a convoluted neural network which can successfully classify the chest x-ray of a patient and determine whether they have pnemonia or not. 
+This project is focused on creating a convoluted neural network which can successfully classify the chest x-ray of a patient and determine whether they have pneumonia or not. 
 
 ## Getting Started
 
